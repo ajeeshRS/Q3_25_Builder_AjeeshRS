@@ -16,3 +16,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/ajeeshRS/anchor-marketplace.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/ajeeshRS/capstone.git
