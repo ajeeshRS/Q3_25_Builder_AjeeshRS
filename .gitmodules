@@ -10,3 +10,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/ajeeshRS/anchor-amm.git
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/ajeeshRS/anchor-nft-staking.git
